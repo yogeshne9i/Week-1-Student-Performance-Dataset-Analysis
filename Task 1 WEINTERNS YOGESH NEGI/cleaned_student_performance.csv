@@ -1,0 +1,201 @@
+Student ID,Gender,Age,Attendance Percentage,Study Hours Per Week,Assignment Score,Midterm Score,Final Score,Parental Education,Internet Access,Extra Activities
+S0064,F,18,92.8,10.4,46.7,62.5,72.3,masters,YES,N
+S0061,F,18,49.9,1.0,34.3,26.9,38.9,Bachelor's Degree,Yes,No
+S0005,F,19,83.0,17.9,54.3,95.5,51.7,phd,Yes,N
+S0097,Male,15,55.5,10.8,81.8,82.1,61.3,Associate Degree,No,NO
+S0177,F,21,53.4,16.8,79.4,58.2,56.8,High School,NO,yes
+S0043,MALE,15,67.8,16.3,999.0,39.6,29.7,phd,yes,NO
+S0200,MALE,21,52.8,14.8,85.0,76.0,89.0,Bachelor's Degree,No,no
+S0150,female,16,75.1,6.8,54.7,60.1,97.8,bachelors,NO,No
+S0141,Female,21,80.8,16.2,39.4,62.7,63.0,Associate Degree,NO,No
+S0176,FEMALE,17,40.9,14.7,81.6,37.3,41.6,masters,NO,YES
+S0012,Female,21,86.9,15.3,63.5,38.4,84.2,high school,NO,Y
+S0149,female,20,49.0,4.9,92.2,75.4,55.4,bachelors,YES,YES
+S0047,female,20,43.9,5.8,47.2,64.5,73.7,Associate Degree,NO,N
+S0110,F,17,47.2,12.3,96.9,63.5,45.1,Bachelors Degree,YES,yes
+S0161,F,16,92.7,3.3,64.1,35.2,57.1,Bachelor's Degree,No,yes
+S0181,FEMALE,16,84.8,3.1,41.3,54.5,27.7,High School,YES,No
+S0066,Female,21,46.4,4.9,37.8,27.6,88.6,masters,Yes,YES
+S0126,Female,16,73.7,7.9,65.0,47.3,29.9,PhD,Yes,no
+S0178,F,18,49.1,16.2,98.6,54.4,27.5,bachelors,No,YES
+S0030,FEMALE,21,41.5,1.1,64.4,58.8,105.0,Bachelor's Degree,no,NO
+S0042,Female,18,62.8,15.6,51.6,85.3,31.6,Bachelors Degree,No,NO
+S0116,MALE,21,63.4,7.8,71.6,51.3,96.1,masters,Yes,no
+S0140,female,17,98.1,4.9,82.5,41.6,87.8,masters,Yes,no
+S0049,female,15,89.1,8.8,56.0,71.6,30.8,High School,no,N
+S0068,male,21,40.1,4.8,83.4,98.3,25.3,Bachelors Degree,Yes,N
+S0077,M,21,67.44999999999999,11.0,45.3,85.1,54.4,Master's Degree,No,yes
+S0075,Male,21,89.9,18.3,37.4,43.8,41.3,Master's Degree,YES,NO
+S0109,FEMALE,15,88.6,10.4,91.9,27.6,73.1,PhD,NO,YES
+S0063,F,19,82.7,6.1,68.8,57.7,84.1,masters,yes,YES
+S0158,F,22,91.8,17.5,48.7,81.4,86.7,PhD,Yes,NO
+S0189,F,21,87.6,1.1,64.2,26.2,33.3,Bachelors Degree,no,Y
+S0184,Male,21,63.6,10.8,50.4,91.8,31.3,phd,No,no
+S0039,F,21,95.5,5.3,32.4,50.4,56.5,masters,no,no
+S0094,M,20,74.7,7.8,84.6,89.3,43.5,masters,yes,No
+S0171,MALE,21,99.7,10.4,34.6,54.8,35.1,High School,NO,no
+S0157,female,21,64.6,18.5,96.1,72.0,41.8,PhD,Yes,YES
+S0028,M,17,40.7,2.2,48.8,75.4,76.9,masters,no,YES
+S0062,male,19,43.8,12.9,99.6,79.3,60.8,masters,Yes,Y
+S0018,Male,20,73.2,9.4,31.3,49.9,71.8,masters,NO,No
+S0013,FEMALE,20,49.4,11.4,31.5,85.0,79.5,Associate Degree,YES,yes
+S0086,Female,17,92.2,10.4,37.0,62.5,26.0,Bachelor's Degree,yes,YES
+S0048,female,18,95.8,8.1,90.6,62.5,44.5,masters,NO,No
+S0186,F,16,99.8,16.0,63.6,62.3,83.4,Associate Degree,YES,No
+S0173,F,18,71.1,1.1,99.2,45.6,44.7,high school,no,YES
+S0128,Male,21,42.4,4.1,43.9,47.7,53.6,High School,YES,YES
+S0033,M,19,84.3,19.5,48.2,74.2,47.6,masters,NO,Y
+S0144,FEMALE,16,87.5,10.3,-5.0,44.4,36.3,PhD,NO,Y
+S0167,male,19,62.5,7.9,76.4,64.2,47.7,masters,Yes,YES
+S0082,Male,17,90.4,9.9,69.4,74.9,88.0,high school,NO,Y
+S0007,F,17,81.4,10.8,73.2,75.7,29.0,masters,YES,Y
+S0160,MALE,16,64.9,10.4,76.6,54.8,50.2,High School,YES,no
+S0053,male,21,61.6,3.8,97.9,86.2,39.4,masters,NO,Yes
+S0060,male,17,40.8,10.4,79.5,58.8,29.8,Bachelor's Degree,NO,YES
+S0092,male,17,56.4,17.2,86.5,76.3,93.5,high school,YES,No
+S0051,male,17,40.9,11.5,74.8,93.2,31.7,phd,yes,yes
+S0114,MALE,150,65.1,15.9,91.1,70.6,53.5,Bachelors Degree,NO,N
+S0078,MALE,22,99.8,15.4,75.5,83.5,60.2,Master's Degree,yes,Y
+S0187,FEMALE,17,55.6,14.2,51.2,29.0,60.0,masters,YES,yes
+S0031,M,20,43.9,8.4,90.9,30.7,94.4,PhD,Yes,YES
+S0106,FEMALE,18,82.2,3.0,90.9,78.8,28.4,Associate Degree,no,N
+S0050,M,19,65.1,2.0,82.2,91.3,56.1,High School,yes,no
+S0024,Male,16,55.9,2.7,58.0,28.1,26.7,PhD,NO,no
+S0020,FEMALE,15,60.3,11.5,94.9,45.1,34.7,masters,NO,no
+S0108,F,21,90.9,2.0,66.2,96.8,95.1,Master's Degree,NO,Yes
+S0119,female,17,69.9,11.5,48.6,73.5,64.9,Bachelor's Degree,YES,no
+S0074,MALE,20,55.6,10.4,92.6,43.2,55.0,masters,No,YES
+S0121,Male,22,43.3,5.5,45.6,37.0,69.0,Bachelor's Degree,yes,Yes
+S0004,F,17,96.0,9.0,97.3,30.8,66.9,high school,yes,NO
+S0087,Female,5,74.5,18.5,999.0,26.1,54.0,phd,NO,yes
+S0165,F,16,63.6,11.0,72.9,75.8,49.2,masters,YES,no
+S0142,MALE,18,42.8,1.8,79.1,96.7,59.5,Associate Degree,NO,yes
+S0191,F,19,70.0,19.2,65.5,99.1,39.2,Bachelor's Degree,no,Yes
+S0014,MALE,17,43.7,10.4,92.8,74.7,86.1,masters,NO,yes
+S0040,M,19,67.44999999999999,10.4,72.7,92.2,61.4,masters,Yes,yes
+S0122,female,21,67.44999999999999,17.6,63.9,84.5,43.3,Bachelor's Degree,No,NO
+S0041,F,16,99.9,18.7,53.0,38.9,95.2,Bachelors Degree,NO,YES
+S0193,F,15,92.5,17.9,38.3,53.3,48.3,masters,No,N
+S0089,M,15,83.0,1.2,31.0,73.8,86.3,Associate Degree,no,YES
+S0101,F,21,99.5,20.0,94.8,32.3,46.7,Bachelor's Degree,Yes,YES
+S0112,female,20,73.4,10.3,49.9,99.1,47.2,High School,No,No
+S0147,MALE,19,43.8,19.8,55.0,68.0,68.8,Bachelor's Degree,NO,Yes
+S0081,female,22,81.6,11.1,81.9,57.9,91.2,masters,Yes,YES
+S0083,Female,22,69.1,18.1,32.4,78.9,71.9,high school,Yes,NO
+S0002,Male,21,43.0,5.2,69.0,35.0,56.4,masters,Yes,YES
+S0044,Female,15,89.6,10.4,80.1,59.9,83.2,PhD,no,N
+S0027,Female,22,55.1,2.4,48.6,79.7,40.4,masters,no,N
+S0046,FEMALE,17,54.1,8.9,73.4,75.6,81.1,masters,Yes,YES
+S0172,Female,15,67.44999999999999,2.7,82.7,67.3,29.1,masters,No,NO
+S0192,MALE,17,95.7,18.0,76.6,30.7,71.8,Bachelors Degree,yes,YES
+S0183,M,21,67.44999999999999,19.8,93.6,79.5,65.1,Master's Degree,Yes,Yes
+S0107,FEMALE,21,49.9,16.7,95.6,54.2,56.5,phd,YES,Yes
+S0038,Male,15,67.44999999999999,19.9,49.5,48.7,88.0,Master's Degree,no,no
+S0090,male,17,98.0,3.2,96.8,37.3,85.1,Bachelors Degree,no,N
+S0072,male,16,51.7,3.9,40.4,47.7,47.3,masters,No,No
+S0137,F,15,41.9,12.6,88.3,63.3,35.7,Associate Degree,NO,Yes
+S0034,MALE,17,72.9,5.6,42.2,66.7,48.9,high school,yes,no
+S0099,MALE,15,77.7,9.6,53.8,86.7,60.8,masters,yes,yes
+S0104,male,20,42.2,14.3,70.2,89.4,51.7,Bachelors Degree,YES,No
+S0134,F,19,46.5,10.3,110.0,39.2,65.7,High School,yes,No
+S0154,male,20,53.8,12.8,86.9,60.8,27.4,masters,yes,N
+S0102,F,21,42.4,8.8,49.4,38.6,88.3,masters,No,yes
+S0026,female,16,41.9,3.5,55.2,62.5,87.7,masters,Yes,Yes
+S0139,F,22,79.4,3.6,90.6,64.8,72.5,Master's Degree,No,N
+S0057,M,20,93.7,4.2,84.9,33.6,64.8,masters,yes,N
+S0003,FEMALE,21,86.6,9.8,94.6,52.1,43.6,Bachelor's Degree,NO,no
+S0067,Male,20,94.6,15.6,72.1,60.7,46.6,High School,no,Yes
+S0095,FEMALE,18,55.7,15.8,59.8,96.0,82.5,masters,NO,YES
+S0010,male,20,86.3,11.1,84.5,49.7,41.7,masters,NO,Y
+S0117,F,16,50.2,7.0,98.5,87.0,63.4,Associate Degree,NO,YES
+S0098,Female,20,68.9,4.2,46.7,35.7,75.8,High School,no,no
+S0037,Male,15,86.9,5.4,94.4,73.4,47.8,Bachelor's Degree,NO,YES
+S0022,F,18,60.6,16.8,79.5,72.7,55.4,high school,Yes,yes
+S0052,male,15,98.5,10.2,33.7,94.5,54.1,phd,NO,yes
+S0135,M,20,51.1,13.1,89.2,94.5,37.6,PhD,NO,NO
+S0169,FEMALE,16,67.44999999999999,9.0,85.5,71.3,52.9,High School,NO,N
+S0079,FEMALE,5,77.4,2.6,92.8,36.5,47.7,bachelors,Yes,No
+S0197,male,20,42.6,6.3,999.0,74.6,88.6,bachelors,Yes,YES
+S0127,M,17,41.8,13.9,76.5,51.4,55.9,masters,NO,N
+S0091,Male,17,76.1,10.4,60.0,91.6,53.3,masters,no,no
+S0113,male,21,60.2,7.7,77.3,71.2,88.7,masters,Yes,N
+S0163,M,21,65.3,11.3,56.8,36.3,82.1,bachelors,No,Yes
+S0125,F,21,76.5,5.0,91.1,62.5,63.5,masters,yes,Y
+S0159,F,15,86.8,17.4,42.8,89.8,99.6,PhD,NO,Yes
+S0111,FEMALE,18,67.44999999999999,4.8,79.7,59.6,66.1,phd,no,N
+S0035,F,17,81.2,11.1,85.3,88.6,31.9,Master's Degree,no,Y
+S0123,Female,21,67.44999999999999,7.7,47.1,39.3,46.3,Master's Degree,no,Yes
+S0188,M,18,54.4,12.2,69.3,90.8,68.1,masters,NO,Yes
+S0065,F,17,48.7,1.5,37.5,62.5,50.9,Bachelor's Degree,NO,Yes
+S0164,Male,15,64.3,11.6,77.9,58.2,75.1,Bachelors Degree,YES,Yes
+S0145,FEMALE,15,88.0,1.7,42.8,86.4,76.0,bachelors,no,yes
+S0015,Female,15,67.44999999999999,10.8,68.9,83.8,33.0,masters,Yes,no
+S0151,Male,21,66.9,18.0,49.8,62.6,32.5,Master's Degree,NO,Yes
+S0105,Female,22,66.8,1.5,86.3,35.1,43.3,masters,No,yes
+S0132,male,20,81.9,3.5,79.5,69.1,43.1,masters,Yes,Y
+S0100,Male,19,74.3,6.6,86.3,44.6,33.2,Bachelors Degree,no,No
+S0103,female,19,52.1,2.2,81.3,55.6,79.1,masters,YES,NO
+S0168,F,22,71.2,5.5,56.0,50.5,53.6,High School,YES,no
+S0023,female,19,42.7,4.5,48.8,25.3,52.3,masters,YES,NO
+S0179,Female,18,99.8,18.8,66.8,46.8,51.1,Bachelors Degree,Yes,no
+S0017,male,20,48.6,17.8,97.7,41.5,96.4,bachelors,no,yes
+S0096,Female,21,95.3,14.4,36.3,48.9,42.5,Associate Degree,NO,Y
+S0069,female,99,49.9,18.8,83.7,61.8,99.3,masters,Yes,NO
+S0130,female,19,71.6,7.6,96.5,58.2,50.5,masters,NO,N
+S0175,F,15,56.4,16.1,50.4,78.3,85.2,phd,YES,N
+S0045,FEMALE,20,87.0,12.3,65.8,54.4,37.0,bachelors,Yes,Yes
+S0166,Female,20,71.4,11.0,86.9,42.9,37.9,masters,no,yes
+S0008,Female,15,74.0,11.2,96.4,71.0,30.3,Master's Degree,YES,Y
+S0170,male,18,98.7,17.2,70.6,29.8,40.2,Associate Degree,NO,N
+S0148,female,17,80.9,6.8,83.4,80.5,63.2,masters,No,NO
+S0073,M,22,41.3,5.9,81.7,25.4,43.2,bachelors,NO,Y
+S0054,MALE,20,66.8,9.3,31.6,71.4,61.7,Master's Degree,no,N
+S0195,F,17,90.0,10.4,33.4,64.9,92.0,Master's Degree,YES,Yes
+S0185,male,19,60.5,16.4,62.3,94.1,25.8,bachelors,no,Yes
+S0059,MALE,21,70.8,18.0,39.2,42.0,74.0,High School,Yes,Yes
+S0194,MALE,17,84.8,13.2,49.7,82.2,46.8,masters,Yes,Y
+S0136,Female,21,94.3,19.0,64.6,62.5,36.8,PhD,YES,No
+S0085,Male,21,58.0,1.1,43.3,94.1,70.7,masters,Yes,Y
+S0088,Female,18,92.2,3.5,31.2,79.0,43.2,Bachelor's Degree,Yes,NO
+S0182,Female,20,40.3,13.3,88.6,47.8,44.6,Associate Degree,No,No
+S0076,FEMALE,18,99.4,4.5,66.0,95.0,79.7,phd,yes,Yes
+S0199,F,21,63.6,16.3,54.5,38.9,90.4,masters,NO,Y
+S0124,FEMALE,18,49.6,7.7,80.6,53.3,96.9,Master's Degree,yes,N
+S0029,M,22,44.6,10.6,99.6,99.5,54.0,Master's Degree,Yes,No
+S0120,MALE,15,79.0,14.0,70.5,35.8,42.9,PhD,No,Yes
+S0138,FEMALE,20,74.1,9.9,68.0,63.8,57.1,masters,NO,yes
+S0011,F,22,88.5,14.7,54.5,98.1,31.0,Associate Degree,No,N
+S0009,Female,17,46.1,10.4,48.5,87.2,37.1,High School,No,NO
+S0153,F,15,95.5,11.7,99.1,29.2,71.0,high school,No,No
+S0143,F,15,89.5,3.3,56.1,80.3,96.1,Bachelors Degree,Yes,NO
+S0152,Male,20,95.4,5.0,52.9,81.2,73.7,bachelors,YES,NO
+S0190,M,17,82.1,9.4,76.3,85.5,34.1,masters,NO,Yes
+S0016,female,19,67.1,11.1,63.5,95.6,77.4,PhD,YES,no
+S0129,Male,16,90.1,10.4,50.0,28.2,89.1,phd,NO,Yes
+S0071,female,17,60.0,13.2,78.8,63.1,45.1,phd,No,yes
+S0115,M,17,66.1,8.2,46.2,62.5,49.8,phd,No,NO
+S0036,FEMALE,15,44.4,18.7,95.0,64.6,60.1,Bachelors Degree,No,No
+S0162,female,16,56.4,4.4,48.5,30.2,28.2,masters,Yes,Y
+S0118,female,21,67.44999999999999,10.4,72.2,51.5,-10.0,masters,NO,Yes
+S0001,F,17,63.7,1.9,87.5,32.1,68.7,masters,No,Yes
+S0056,male,18,43.9,7.7,82.9,36.9,92.2,PhD,no,yes
+S0084,F,22,64.2,10.6,49.0,63.0,98.1,masters,no,No
+S0032,MALE,15,88.7,13.0,93.9,95.6,66.2,Associate Degree,Yes,Y
+S0019,MALE,19,64.4,11.2,66.0,62.1,49.5,PhD,Yes,yes
+S0133,F,22,52.4,2.1,49.7,39.8,77.6,Bachelors Degree,NO,yes
+S0180,female,19,41.9,12.4,97.7,50.8,95.8,masters,yes,Yes
+S0006,male,150,91.8,6.3,59.1,51.9,91.3,Master's Degree,No,No
+S0196,male,19,58.6,18.9,43.8,49.1,57.9,Associate Degree,NO,YES
+S0021,male,19,60.8,1.3,47.5,26.2,80.0,masters,No,N
+S0146,Male,18,50.2,7.9,62.7,68.3,54.1,high school,yes,Yes
+S0174,M,19,52.1,2.0,67.6,53.0,59.8,Bachelors Degree,NO,yes
+S0093,female,19,75.2,1.2,56.9,65.5,65.2,high school,Yes,no
+S0025,FEMALE,17,57.1,12.8,40.1,86.9,78.6,masters,NO,Y
+S0080,M,19,76.5,12.0,89.8,38.9,58.9,Bachelor's Degree,No,Y
+S0058,F,17,61.6,15.5,61.0,38.3,80.8,High School,yes,YES
+S0055,F,17,67.44999999999999,14.9,84.4,63.4,29.1,masters,no,yes
+S0156,Male,20,86.7,10.4,98.8,62.4,72.7,masters,no,N
+S0070,male,21,98.9,13.0,96.1,34.5,69.6,phd,NO,Yes
+S0131,M,17,72.8,19.4,74.6,65.8,105.0,High School,No,NO
+S0155,male,18,64.1,19.6,95.6,71.8,34.2,masters,YES,no
+S0198,M,20,76.1,7.8,98.6,91.4,90.7,Associate Degree,YES,Y
